@@ -9,7 +9,7 @@ def toadstool
 end
 
 def link
-  puts "It's too dangerous to go alone! Take this."
+  puts "It's Dangerous To Go Alone! Take this.\n"
 end
 
 def all_phrases
