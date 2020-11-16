@@ -12,4 +12,4 @@ def link
   puts "It's too dangerous to go alone! Take this."
 end
 
-toadstool
+link
