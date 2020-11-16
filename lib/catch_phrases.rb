@@ -12,4 +12,8 @@ def link
   puts "It's too dangerous to go alone! Take this."
 end
 
-link
+def all_phrases
+  puts mario
+  puts toadstool
+  puts link
+end
